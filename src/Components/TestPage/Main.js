@@ -50,10 +50,10 @@ const Main = () => {
          )}
 
          <div style={{ position: 'relative', height: '100vh' }}>
-            <img className="lleftVector" src={d1}></img>
-            <img className="lrightVector1" src={d2}></img>
-            <img className="rleftVector" src={d3}></img>
-            <img className="rrightVector"  src={d4}></img>
+            <img className="lleftVectorma" src={d1}></img>
+            <img className="lrightVectorma" src={d2}></img>
+            <img className="rleftVectorma" src={d3}></img>
+            <img className="rrightVectorma"  src={d4}></img>
          </div>
 
          {isLoggedIn ? (

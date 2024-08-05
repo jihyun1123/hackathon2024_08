@@ -1,8 +1,4 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "react-router-dom": "^6.25.1"
-=======
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
@@ -40,6 +36,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
->>>>>>> f6abd4f (Initialize project using Create React App)
   }
 }
